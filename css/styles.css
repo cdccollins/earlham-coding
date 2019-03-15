@@ -1,0 +1,33 @@
+body {
+	background-color: gold;
+}
+
+.navbar {
+	background-color: blue !important;
+
+}
+
+.nav-link {
+		color: white !important;
+}
+
+.before-after {
+	width: 500px;
+}
+
+.alert-image {
+	width: 300px;
+}
+
+.carousel {
+  background-color: orange;
+}
+
+.carousel-image {
+  height: 500px;
+  width: 500px !important;
+}
+
+.carousel-item {
+  margin-left: 250px;
+}
